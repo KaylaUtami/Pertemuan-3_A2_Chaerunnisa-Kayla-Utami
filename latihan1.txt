@@ -1,6 +1,5 @@
-from operator import *
-a = 1 
-b = 5.0
-print('a = {}'.format(a))
-print('b = {}'.format(b))
-for func 
+feeling = input('How are you?')
+if feeling.lower() == 'great':
+    print ('I feel great too.')
+else:
+    print("I hope the rest of your day is good")
