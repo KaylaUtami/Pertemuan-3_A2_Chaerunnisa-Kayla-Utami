@@ -1,6 +1,7 @@
-str1 = "Py'thon"
+str = "Py'thon"
+print (str)
 str2 = 'Py"hton'
-str2
+print (str2)
 "\"OK,\"sampai ketemu lagi."
 teks = "Pyhton adalah bahasa pemrograman yang powerfull./nTerbukti Pyhton bisa dijalankan di segala platform OS./nJadi, saatnya kita menggunakan Pyhton sebagai bahasa pemrograman./nsehari-hari. Salam Pyhton Dahsyat!"
 print(teks)
